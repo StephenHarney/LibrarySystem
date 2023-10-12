@@ -11,8 +11,8 @@ public class Book {//getters and setters
 
     private String title;
     private String author;
-    private int isbn;
-    private  String publishedYear;
+    private  int isbn;
+    private  int publishedYear;
 
 
 }
